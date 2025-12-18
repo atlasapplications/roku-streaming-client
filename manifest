@@ -1,0 +1,52 @@
+#  ------------------------------------------------------------------------
+#  manifest                                                               |
+#  -----------------------------------------------------------------------|
+#                          This file is part of:                          |
+#                          Roku Streaming Client                          |
+#                                                                         |
+#  Copyright (c) 2025-present Justin Sasso                                |
+#                                                                         |
+#  Permission is hereby granted, free of charge, to any person obtaining  |
+#  a copy of this software and associated documentation files (the        |
+#  "Software"), to deal in the Software without restriction, including    |
+#  without limitation the rights to use, copy, modify, merge, publish,    |
+#  distribute, sublicense, and/or sell copies of the Software, and to     |
+#  permit persons to whom the Software is furnished to do so, subject to  |
+#  the following conditions:                                              |
+#                                                                         |
+#  The above copyright notice and this permission notice shall be         |
+#  included in all copies or substantial portions of the Software.        |
+#                                                                         |
+#  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,        |
+#  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF     |
+#  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. |
+#  IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY   |
+#  CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,   |
+#  TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE      |
+#  SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.                 |
+#  ------------------------------------------------------------------------
+
+##   Channel Details
+title=Roku Streaming Client
+subtitle=An example client.
+major_version=1
+minor_version=0
+build_version=00001
+
+##   Channel Assets
+###  Main Menu Icons / Channel Poster Artwork 
+#### Image sizes are FHD: 540x405px | HD: 290x218px | SD: 214x144px
+mm_icon_focus_fhd=pkg:/images/channel-poster_fhd.png
+mm_icon_focus_hd=pkg:/images/channel-poster_hd.png
+mm_icon_focus_sd=pkg:/images/channel-poster_sd.png
+
+###  Splash Screen + Loading Screen Artwork 
+#### Image sizes are FHD: 1920x1080px | HD: 1280x720px | SD: 720x480px
+splash_screen_fhd=pkg:/images/splash-screen_fhd.jpg
+splash_screen_hd=pkg:/images/splash-screen_hd.jpg
+splash_screen_sd=pkg:/images/splash-screen_sd.jpg
+
+splash_color=#000000
+splash_min_time=1
+
+ui_resolutions="hd"

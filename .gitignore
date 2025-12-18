@@ -1,2 +1,8 @@
-# macOS-specific
+# Make sure credentials aren't included.
+.vscode/
+
+# Binary files aren't necessary.
+out/
+
+# macOS-specific.
 .DS_Store
