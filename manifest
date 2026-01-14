@@ -27,8 +27,8 @@
 #  ------------------------------------------------------------------------
 
 ##   Channel Details
-title=Roku Streaming Client
-subtitle=An example client.
+title=Sassafras TV
+subtitle=This is Sassafras.
 major_version=1
 minor_version=0
 build_version=00001
@@ -49,4 +49,4 @@ splash_screen_sd=pkg:/images/splash-screen_sd.jpg
 splash_color=#000000
 splash_min_time=1
 
-ui_resolutions="hd"
+ui_resolutions="fhd,hd,sd"

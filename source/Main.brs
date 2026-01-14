@@ -27,13 +27,13 @@
 '  ------------------------------------------------------------------------
 
 sub Main()
-    print "Example Roku Client"
+    print "Welcome to Sassafras TV - DEBUG"
 
     screen = CreateObject("roSGSCreen")
     m.port = CreateObject("roMessagePort")
     screen.setMessagePort(m.port)
 
-    scene = screen.CreateScene("ExampleScreen")
+    scene = screen.CreateScene("MainScene")
     screen.show()
 
     while (true)

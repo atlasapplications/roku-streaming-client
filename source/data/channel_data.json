@@ -1,0 +1,111 @@
+{
+  "providerName": "Sassafras TV",
+  "language": "en-US",
+  "lastUpdated": "Last day updated",
+  "exampleVideos": [
+    {
+      "longDescription": "The beauty of Sassafras.",
+      "thumbnail": "pkg:/source/data/SassafrasThumbnail1.jpeg",
+      "releaseDate": "Today",
+      "genres": [
+        "nature"
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "my-id-1",
+      "shortDescription": "A short description 1.",
+      "title": "My Title 1",
+      "content": {
+        "duration": 123,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "pkg:/source/data/SassafrasVideoContent1.mp4",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "Long Description 2",
+      "thumbnail": "pkg:/source/data/SassafrasThumbnail2.jpeg",
+      "releaseDate": "Today",
+      "genres": [
+        "nature"
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "my-id-2",
+      "shortDescription": "A short description 2.",
+      "title": "My Title 2",
+      "content": {
+        "duration": 123,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "pkg:/source/data/SassafrasVideoContent1.mp4",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "Long Description 3",
+      "thumbnail": "pkg:/source/data/SassafrasThumbnail3.jpeg",
+      "releaseDate": "Today",
+      "genres": [
+        "nature"
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "my-id-3",
+      "shortDescription": "A short description 3.",
+      "title": "My Title 3",
+      "content": {
+        "duration": 123,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "pkg:/source/data/SassafrasVideoContent1.mp4",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "Long Description 4",
+      "thumbnail": "pkg:/source/data/SassafrasThumbnail4.jpeg",
+      "releaseDate": "Today",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "my-id-4",
+      "shortDescription": "A short description 4.",
+      "title": "My Title 4",
+      "content": {
+        "duration": 123,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "pkg:/source/data/SassafrasVideoContent1.mp4",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    }
+    ]
+}
